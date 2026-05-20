@@ -1,0 +1,87 @@
+Session 1 :
+
+1. Five IT Job Roles:
+
+Answer:
+
+Developer
+ – Creates software, websites, and applications using programming languages.
+Tester
+ – Checks software for bugs and ensures everything works properly.
+Designer
+ – Designs the look and user experience of websites or apps.
+Data Analyst
+ – Studies data and creates reports to help companies make decisions.
+AI Engineer 
+– Builds smart systems using Artificial Intelligence and Machine Learning.
+
+
+
+
+2. Product Companies and Service Companies
+
+Answer:
+
+Product Companies
+Google
+ – Creates products like Google Search and Gmail.
+Zoho
+ – Develops business software like Zoho CRM.
+Microsoft
+ – Makes products like Windows and MS Office.
+
+Service Companies
+Tata Consultancy Services
+ – Provides software and IT services to clients.
+Infosys 
+– Develops software solutions for businesses.
+Wipro
+ – Offers cloud and technology support services.
+
+
+
+
+
+
+3. Full Forms and Uses
+
+Answer:
+
+GitHub
+ – Platform used to store and manage code projects online.
+Slack
+ – Team communication and messaging application.
+Jira
+ – Project management and bug tracking tool.
+IDE (Integrated Development Environment)
+ – Software used to write and run code.
+API (Application Programming Interface)
+ – Helps two applications communicate with each other.
+
+
+
+4. Programming Languages and Uses
+
+Answer:
+
+Java
+ – Used for Android apps and enterprise software.
+Python
+ – Used in AI, Machine Learning, and data analysis.
+JavaScript
+ – Used for interactive websites.
+C++ 
+– Used in game development and system software.
+PHP
+ – Used for backend web development.
+
+
+
+
+5. Difference Between Developer and Tester
+
+Answer:
+
+A developer creates and writes the software or application.
+A tester checks the software for errors and makes sure it works correctly.
+

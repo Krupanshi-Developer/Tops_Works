@@ -1,0 +1,58 @@
+Session 5 :
+
+
+
+1. Git Commands
+
+Answer:
+
+Task
+Command
+Initialize repository
+git init
+Stage all files
+git add .
+Commit with message
+git commit -m "First commit"
+Push to remote
+git push origin main
+Pull latest changes
+git pull origin main
+
+
+
+2. Difference Between git fetch and git pull
+
+Answer:
+
+git fetch downloads latest changes from GitHub but does not update local files.
+git pull downloads changes and directly updates the local repository.
+
+
+3. GitHub Repository Link
+
+Answer:
+
+Example Repository Link:
+github.com⁠�
+(Replace with your actual GitHub repo link after uploading your file.)
+
+
+
+4. Difference Between Fork and Pull Request
+
+Answer:
+
+A Fork creates a copy of another repository in your GitHub account.
+A Pull Request is used to request merging your changes into the original repository.
+5. Branch Create and Merge Commands
+
+Answer:
+
+Bash
+git checkout -b feature-test
+git add .
+git commit -m "Added changes in feature-test branch"
+git checkout main
+git merge feature-test
+

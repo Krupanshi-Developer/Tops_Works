@@ -1,0 +1,73 @@
+Session 4 :
+
+
+1. List all 6 phases of SDLC in order with one about each.
+
+Answer : 
+
+1) Requirement Gathering
+ 		 - Gather and understand project requirements from Clients/Users.
+
+2) Analysis
+ - Define project scope, timeline, resources and budget.
+
+3) Designing
+  		- Create UI, Database and system Architecture design.
+
+4) Coding
+  		- Developer Write Code and build the Application and Website.
+
+5) Testing
+  		- Test The App/Web to find and fix bugs.
+
+6) Maintenance
+  		- Release the app to users and provide updates and fixes.
+
+
+
+
+
+
+
+
+
+2. Write 3 differences between Agile and Waterfall Models.
+
+Answer:
+
+          Agile                                       			 Waterfall
+
+- Work is done in small sprints                      - work is done step-by-step 
+- Changes Can be made anytime                 - Changes are difficult after planning
+- Continuous testing and feedback               - Testing happens after development
+
+
+
+
+
+3. Name the 3 main Scrum roles and write one line about the responsibility for each.
+
+Answer:
+
+1) Product Owner
+      		- Manages requirements and project goals.
+
+2) Scrum Master
+      		- Helps the team follow the Scrum process and removes blockers.
+
+3) Development Team
+  		- Builds, tests and delivers the product.
+
+
+4.What is Sprint in Scrum? Mention its typical duration.
+
+Answer:
+
+
+
+
+5. What do these jira board columns mean: To Do, In Progress, Done, Backlog?
+
+Answer:
+
+

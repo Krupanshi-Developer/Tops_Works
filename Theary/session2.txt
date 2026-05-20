@@ -1,0 +1,56 @@
+Session 2 :
+
+
+
+1. Three Main Layers of Software Architecture
+
+Answer:
+
+UI Layer
+ – Handles user interaction and display.
+Business Logic Layer
+ – Processes application rules and operations.
+Database Layer
+ – Stores and manages data.
+
+
+
+2. Client and Server
+
+Answer:
+
+Client
+ – Sends requests for data or services.
+Server
+ – Receives requests and provides responses.
+
+Example: In Instagram, the mobile app is the client and Instagram’s system is the server.
+
+
+3. Differences Between Applications
+
+Answer:
+
+Desktop Apps
+Installed on a computer.
+Can work offline.
+
+Web Apps
+Run in a browser.
+Usually it requires the internet.
+Mobile Apps
+Designed for smartphones.
+Can use device features like camera and GPS.
+
+
+
+
+4. Databases
+
+Answer:
+
+MySQL – SQL
+PostgreSQL – SQL
+MongoDB – NoSQL
+
+
