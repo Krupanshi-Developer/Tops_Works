@@ -1,0 +1,13 @@
+//Question 1
+
+#include <stdio.h>
+#include <string.h>
+
+int main()
+{
+    char songTitle[] = "Tum Hi Ho";
+
+    printf("Song Title: %s\n", songTitle);
+    printf("Length = %d", strlen(songTitle));
+}
+

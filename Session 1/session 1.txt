@@ -1,0 +1,53 @@
+1. What is a Program?
+
+A program is a set of instructions given to a computer to perform a specific task. We use different programs in our daily life, such as Instagram, Paytm, and Zomato. For example, when we use Paytm to send money, the app follows a program to complete the transaction safely and quickly.
+
+-----------------------------------
+
+2. Three Programming Languages
+
+  Language             Type
+        
+    Java             Compiled                       
+   Python           Interpreted                     
+  JavaScript         Both (Compiled and Interpreted) 
+
+---------------------------------------
+
+3. Flowchart for Booking a Movie Ticket on BookMyShow
+
+
+Start
+  ↓
+Open BookMyShow App
+  ↓
+Select City
+  ↓
+Choose Movie
+  ↓
+Select Theatre & Time
+  ↓
+Choose Seats
+  ↓
+Confirm Booking Details
+  ↓
+Make Payment
+  ↓
+Booking Confirmed
+  ↓
+End
+
+--------------------------------
+
+4. Algorithm for Ordering Food on Swiggy
+
+1. Open the Swiggy app.
+2. Log in to your account.
+3. Select a restaurant.
+4. Choose the food items.
+5. Add items to the cart.
+6. Check the order details.
+7. Select the delivery address.
+8. Choose a payment method.
+9. Make the payment.
+10. Receive order confirmation.
