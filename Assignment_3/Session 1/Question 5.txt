@@ -1,0 +1,15 @@
+Question 5. Comparison
+
+Problems in C Version
+
+Global data can be changed from anywhere.
+Task data and functions are separate.
+Difficult to manage when program becomes large.
+
+Solved in OOP Version
+
+Data is stored inside classes.
+Functions and data are together in one object.
+Code is easier to manage and reuse.
+
+OOP is better because it provides encapsulation, better organization, and easier maintenance of code.

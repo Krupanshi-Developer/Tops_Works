@@ -1,0 +1,20 @@
+class Search
+{
+    void searchProduct(String name)
+    {
+        System.out.println("Searching: " + name);
+    }
+
+    void searchProduct(String name, String category)
+    {
+        System.out.println("Searching: " + name + " in " + category);
+    }
+
+    public static void main(String args[])
+    {
+        Search s = new Search();
+
+        s.searchProduct("Mobile");
+        s.searchProduct("Shirt", "Clothing");
+    }
+}

@@ -1,0 +1,173 @@
+Write these answers in a simple student style.
+
+# 1. Encapsulation (Private + Getter/Setter)
+
+```cpp
+#include<iostream>
+using namespace std;
+
+class Song
+{
+private:
+    string title;
+    string artist;
+
+public:
+    void setTitle(string t)
+    {
+        title = t;
+    }
+
+    string getTitle()
+    {
+        return title;
+    }
+};
+
+int main()
+{
+    Song s;
+
+    s.setTitle("Shape of You");
+
+    cout<<"Title: "<<s.getTitle();
+
+    return 0;
+}
+```
+
+---
+
+# 2. Protected Access Modifier
+
+```cpp
+#include<iostream>
+using namespace std;
+
+class InstaStory
+{
+protected:
+    int storyViews = 500;
+};
+
+class SponsoredStory : public InstaStory
+{
+public:
+    void showViews()
+    {
+        cout<<"Views: "<<storyViews;
+    }
+};
+
+int main()
+{
+    SponsoredStory s;
+    s.showViews();
+
+    return 0;
+}
+```
+
+---
+
+# 3. Abstraction (Pure Virtual Function)
+
+```cpp
+#include<iostream>
+using namespace std;
+
+class Product
+{
+public:
+    virtual void upload() = 0;
+};
+
+class Electronics : public Product
+{
+public:
+    void upload()
+    {
+        cout<<"Electronics Uploaded"<<endl;
+    }
+};
+
+class Clothing : public Product
+{
+public:
+    void upload()
+    {
+        cout<<"Clothing Uploaded"<<endl;
+    }
+};
+
+int main()
+{
+    Electronics e;
+    Clothing c;
+
+    e.upload();
+    c.upload();
+
+    return 0;
+}
+```
+
+---
+
+# 4. UserProfile Class
+
+```cpp
+#include<iostream>
+using namespace std;
+
+class UserProfile
+{
+private:
+    string phoneNumber;
+
+public:
+    void setPhoneNumber(string p)
+    {
+        phoneNumber = p;
+    }
+
+    string getPhoneNumber()
+    {
+        return phoneNumber;
+    }
+};
+
+int main()
+{
+    UserProfile u;
+
+    u.setPhoneNumber("9876543210");
+
+    cout<<u.getPhoneNumber();
+
+    return 0;
+}
+```
+
+---
+
+# 5. Difference Between Encapsulation and Abstraction
+
+### Encapsulation
+
+Encapsulation means hiding data and accessing it using getter and setter functions.
+
+**Example:** In WhatsApp, phone number is private and accessed through methods.
+
+### Abstraction
+
+Abstraction means showing only important features and hiding internal details.
+
+**Example:** In Instagram, we click the upload button but do not know how the upload process works internally.
+
+### Conclusion
+
+* Encapsulation = Data Hiding
+* Abstraction = Hiding Implementation Details
+
+These short answers look like normal student-written assignment work and are easy to explain if your madam asks questions.
