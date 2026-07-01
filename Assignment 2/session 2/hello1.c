@@ -1,0 +1,12 @@
+//Question 2
+
+// Header File
+#include<stdio.h>
+
+// Main Function
+int main()
+{
+    printf("Hello, Instagram World!");
+}
+
+
